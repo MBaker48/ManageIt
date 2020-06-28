@@ -1,0 +1,21 @@
+#MANAGE IT
+#Is an inventory management software
+#It's a web application that tracks inventory and stocks, also creates order and manage orders and payments.
+#It has the main menu bar that contains:
+#*user tab: which allows the user to change the username, the password, or logout.
+#*Dashboard: which displays a calendar, Total Product, Total Orders, Low Stock, and Total revenue.
+#*Brand: The user will be able to add brand and manage brands.
+#*Category: The user will be able to display the available categories, add a category, and manage category.
+#*Product: The user will be able to display the available products, add products, and manage products.
+#*Orders: The user will be able to display the orders, create order, and manage orders, and payments.
+#*Report: The user will be able to generate a report within a specific period and print it.
+
+#Inventory Management uses procedural php, jquery, and bootstrap
+#The database created in phpmyadmin
+
+Requirements: 
+PHP, and Web server apache2 with php and mysqli.
+
+#More notes to be added later.
+
+
