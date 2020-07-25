@@ -49,5 +49,4 @@ if($_POST) {
 	echo $table;
 
 }
-
 ?>
